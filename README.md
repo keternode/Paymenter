@@ -8,7 +8,7 @@
 [Discord](https://discord.gg/pcfMksn3kA), [Docs](https://keter-gaming.com/), [Website](https://keter-gaming.com/)
 
 
-# <img src="https://media.discordapp.net/attachments/1216615245527912468/1220010912103272458/1055803759831294013.png?ex=660d62b4&is=65faedb4&hm=4307d44483bbf98d05c87d5426ce2c4a0e0d1edcf754a2758d82e4332fc7ebf0&=&format=webp&quality=lossless" width="20px" height="20px"> 》An advanced payment system for your hosting company
+## <img src="https://cdn.discordapp.com/emojis/1055803759831294013.png" width="20px" height="20px"> 》An advanced payment system for your hosting company
 ### About
 
 Introducing an advanced payment system for your hosting company, Paymenter!  Paymenter is designed to be easy to use and install, with a user-friendly client and admin area. It's also highly customizable, with the ability to install a range of addons and themes from our marketplace created by talented developers and designers.
@@ -23,23 +23,15 @@ Introducing an advanced payment system for your hosting company, Paymenter!  Pay
 - Built in support center
 - Generate coupons to give your customers discounts
 
-# <img src="https://media.discordapp.net/attachments/1216615245527912468/1220010912103272458/1055803759831294013.png?ex=660d62b4&is=65faedb4&hm=4307d44483bbf98d05c87d5426ce2c4a0e0d1edcf754a2758d82e4332fc7ebf0&=&format=webp&quality=lossless" width="20px" height="20px"> 》Sponsors
 
-Thanks to all sponsors for helping fund Paymenter's development.
-[Interested in becoming a sponsor?](https://github.com/sponsors/CorwinDev)
-
-<a href="https://macarne.com">
-    <img src="https://github.com/Paymenter/Paymenter/assets/88144943/9f9c164c-5b43-401a-83da-77754a51416e" width="350">
-</a>
-
-# <img src="https://media.discordapp.net/attachments/1216615245527912468/1220010912103272458/1055803759831294013.png?ex=660d62b4&is=65faedb4&hm=4307d44483bbf98d05c87d5426ce2c4a0e0d1edcf754a2758d82e4332fc7ebf0&=&format=webp&quality=lossless" width="20px" height="20px"> 》Wanna take a look?
+# <img src="https://cdn.discordapp.com/emojis/1015745034076819516.png" width="25px" height="25px">》Wanna take a look?
 Visit our demo at: https://demo.paymenter.org
 
-# <img src="https://media.discordapp.net/attachments/1216615245527912468/1220010912103272458/1055803759831294013.png?ex=660d62b4&is=65faedb4&hm=4307d44483bbf98d05c87d5426ce2c4a0e0d1edcf754a2758d82e4332fc7ebf0&=&format=webp&quality=lossless" width="20px" height="20px"> 》Requirements
+## <img src="https://cdn.discordapp.com/emojis/1009754836314628146.gif" width="25px" height="25px">》Requirements
 The requirements for Paymenter are the following:
 - PHP (8.1 or higher)
 - Composer
 
-# <img src="https://media.discordapp.net/attachments/1216615245527912468/1220010912103272458/1055803759831294013.png?ex=660d62b4&is=65faedb4&hm=4307d44483bbf98d05c87d5426ce2c4a0e0d1edcf754a2758d82e4332fc7ebf0&=&format=webp&quality=lossless" width="20px" height="20px"> 》Installation & Documentation
+## <img src="https://cdn.discordapp.com/emojis/814216203466965052.png" width="25px" height="25px">》Installation & Documentation
 For a detailed explanation of how to install and configure Paymenter, take a look at our [documentation here](https://paymenter.org/docs/getting-started/introduction/)!
 - Or, get additional help via [Community Discord](https://discord.gg/pcfMksn3kA).
