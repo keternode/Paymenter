@@ -5,7 +5,7 @@
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/keternode/paymenter)](https://github.com/keternode/paymenter/releases)
 ![Downloads](https://img.shields.io/github/downloads/keternode/paymenter/total)
 
-[Discord](https://discord.gg/xB4UUT3XQg), [Demo](https://demo.paymenter.org), [Docs](https://paymenter.org/docs/getting-started/introduction/), [Website](https://paymenter.org)
+[Discord](https://discord.gg/pcfMksn3kA), [Docs](https://keter-gaming.com/), [Website](https://keter-gaming.com/)
 
 
 ## An advanced payment system for your hosting company
